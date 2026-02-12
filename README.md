@@ -56,7 +56,7 @@ Keycloak • Okta**
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoud77732&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud77732&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&disable_animations=true"/>
 </p>
 
 <p align="center">
