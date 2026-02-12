@@ -55,18 +55,18 @@ Keycloak • Okta**
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud77732&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud77732&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud77732&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud77732&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud77732&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 ---
